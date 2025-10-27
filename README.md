@@ -1,1 +1,1 @@
-# Praiso
+# Dynamic image slider
